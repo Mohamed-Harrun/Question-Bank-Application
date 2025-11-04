@@ -1,0 +1,43 @@
+.form {
+  max-width: 600px;
+  margin: 1rem auto;
+  display: flex;
+  flex-direction: column;
+  background: #f9f9f9;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ccc;
+}
+
+label {
+  font-weight: 600;
+  margin: 0.5rem 0 0.2rem;
+}
+
+input, select {
+  padding: 0.6rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  margin-bottom: 0.8rem;
+  font-size: 1rem;
+}
+
+.btn-primary {
+  background: #007bff;
+  border: none;
+  color: white;
+  padding: 0.8rem;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.btn-primary:hover {
+  background: #0056b3;
+}
+
+@media (max-width: 600px) {
+  .form {
+    width: 90%;
+    padding: 1rem;
+  }
+}
