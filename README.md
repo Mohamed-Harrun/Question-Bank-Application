@@ -67,7 +67,7 @@ It’s designed to help users practice CRUD operations, routing, and state manag
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/question-bank-app.git
+   git clone https://github.com/Mohamed-Harrun/Question-Bank-Application
    ```
 
 2. **Navigate to project folder:**
