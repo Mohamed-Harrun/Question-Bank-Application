@@ -82,11 +82,11 @@ It’s designed to help users practice CRUD operations, routing, and state manag
 
 4. **Start the development server:**
    ```bash
-   npm start
+   npm run dev
    ```
 
 5. Open the app in your browser:  
-   👉 http://localhost:3000
+   👉 http://localhost:5173
 
 ---
 
@@ -128,8 +128,6 @@ By building this project, you will understand:
 ## 👨‍💻 Developer
 **Mohamed Harrun**  
 *MERN Stack Developer*  
-📧 Email: [your email here]  
-💼 Portfolio: [your portfolio link]  
-
+📧 Email: mohamedharrun5@gmail.com  
 
 
